@@ -26,4 +26,4 @@ plot(X,B*1e3,'.k','markersize',10);
 xlabel('X/mm');
 ylabel('B/mT');
 title('Õº3 B”ÎXπÿœµ');
-%testtest
+grid on;
