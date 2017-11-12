@@ -22,4 +22,4 @@ B=UH/(KH*ICH);
 
 ;
 title('Õº3 B”ÎXπÿœµ');
-%testtest
+grid on;
