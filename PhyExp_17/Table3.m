@@ -20,6 +20,10 @@ IM=800e-3;
 ICH=4e-3;
 B=UH/(KH*ICH);
 
-;
+hold on;
+plot(X,B*1e3,'-k','markersize',10);
+plot(X,B*1e3,'.k','markersize',10);
+xlabel('X/mm');
+ylabel('B/mT');
 title('Õº3 B”ÎXπÿœµ');
 %testtest
